@@ -14,7 +14,7 @@ Fd-силы сопротивления воздуха; Fm-сила Магнус�
 >![image](https://user-images.githubusercontent.com/55112338/193460768-92d9e515-b4c7-4a4e-a290-15147ec630a5.png)
 #
 Решим каждый из диффуров:
->![image](https://user-images.githubusercontent.com/55112338/193461454-d1249dba-ab06-4bbe-806e-3b9e70b7c4d0.png)
+>!![image](https://user-images.githubusercontent.com/55112338/193464905-d3ad5386-7437-4ff9-b51f-fa6f61bf01a8.png)
 #
 В итоге получаем 8 неизвесетных:
 >![image](https://user-images.githubusercontent.com/55112338/193461069-567e61d8-0e93-42cb-971a-676e535da77a.png)
