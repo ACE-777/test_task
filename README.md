@@ -1,4 +1,4 @@
-# test_task
+# testTask
 Рассмотрим силы действия на движущийся обьект:
 
 >![Диаграмма без названия drawio](https://user-images.githubusercontent.com/55112338/193457381-d098293c-e568-46c4-9134-94f9a689a750.svg)
